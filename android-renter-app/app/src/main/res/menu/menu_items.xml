@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mi_option_map"
+        android:title="Show on a Map"/>
+    <item
+        android:id="@+id/mi_option_list"
+        android:title="Show in a List"/>
+    <item
+        android:id="@+id/mi_option_watchList"
+        android:title="My Watch List"/>
+    <item
+        android:id="@+id/mi_option_Login"
+        android:title="Login"/>
+    <item
+        android:id="@+id/mi_option_Logout"
+        android:title="Logout"/>
+</menu>
