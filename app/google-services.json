@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727898974921",
+    "project_id": "projectg09-2e8eb",
+    "storage_bucket": "projectg09-2e8eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727898974921:android:39aeb7bb57cf4b83593b18",
+        "android_client_info": {
+          "package_name": "com.example.landlord_g09"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UdsLr-9TzQSVb7gr6ObLTKBbnHfhoAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727898974921:android:c2f93bcd4ab43ba2593b18",
+        "android_client_info": {
+          "package_name": "com.example.renter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-UdsLr-9TzQSVb7gr6ObLTKBbnHfhoAM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
